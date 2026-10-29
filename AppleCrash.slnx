@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AppleCrash.Core/AppleCrash.Core.csproj" />
+  <Project Path="AppleCrash.Plugin/AppleCrash.Plugin.csproj" />
+  <Project Path="AppleCrash.Tests/AppleCrash.Tests.csproj" />
+  <Project Path="AppleCrash.Automation.Tests/AppleCrash.Automation.Tests.csproj" />
+</Solution>

@@ -1,0 +1,28 @@
+[
+  {
+    "Author": "Apple Crash contributors",
+    "Name": "Apple Crash",
+    "InternalName": "AppleCrash",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "Local auditable banking, editable step macros, party STOP cash-outs, and explicit crash review. Trade detection and unverified dice parsing fail closed.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/z1AyN/PNX-Apple-Crash",
+    "Tags": [
+      "social",
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Host-managed banking and Apple Crash rounds.",
+    "AcceptsFeedback": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/z1AyN/PNX-Apple-Crash/releases/latest/download/AppleCrash.zip",
+    "DownloadLinkTesting": "https://github.com/z1AyN/PNX-Apple-Crash/releases/latest/download/AppleCrash.zip",
+    "DownloadLinkUpdate": "https://github.com/z1AyN/PNX-Apple-Crash/releases/latest/download/AppleCrash.zip",
+    "LastUpdate": 1793318400
+  }
+]

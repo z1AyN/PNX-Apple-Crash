@@ -1,0 +1,19 @@
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+  <PropertyGroup>
+    <Version>0.1.0</Version>
+    <Name>Apple Crash</Name>
+    <InternalName>AppleCrash</InternalName>
+    <AssemblyName>AppleCrash</AssemblyName>
+    <Author>Apple Crash contributors</Author>
+    <Punchline>Host-managed banking and Apple Crash rounds.</Punchline>
+    <Description>Local auditable banking, editable step macros, party STOP cash-outs, and explicit crash review. Trade detection and unverified dice parsing fail closed.</Description>
+    <Tags>social;utility</Tags>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AppleCrash.Core\AppleCrash.Core.csproj" />
+  </ItemGroup>
+</Project>
